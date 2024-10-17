@@ -1,6 +1,8 @@
 # 💫 Sobre mim:
 Sou um Desenvolvedor Web Full Stack, sou do Rio de Janeiro, apaixonado por criar soluções dinâmicas e eficientes para o ambiente web. Com experiência em HTML, CSS, JavaScript, React, Node.js, PHP, e integração com serviços de provedores como WordPress e Firebase, estou sempre pronto para enfrentar novos desafios no desenvolvimento web.<br><br>Atualmente, presto serviços para a Work Group TI, onde contribuo com o desenvolvimento de projetos inovadores e colaborativos. Minha abordagem envolve desde a criação de interfaces modernas e responsivas no front-end até a construção de sistemas robustos e escaláveis no back-end.<br><br>Formado em Técnico de TI e Ciências de Dados, estou em processo de graduação em Engenharia da Computação, com o foco em fortalecer minha atuação como desenvolvedor web. Além disso, busco continuamente novas parcerias e colaborações em projetos que me permitam aplicar e expandir meus conhecimentos.<br><br>Meu objetivo é sempre entregar soluções que sejam tecnicamente sólidas e que tragam valor real aos clientes e usuários.<br><br>
 
+https://iurirod93.github.io/porfifolio13/
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/irodti93?igsh=c2Z1bXRvNXkyNm1n) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iuri-rodrigues-80968910b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
