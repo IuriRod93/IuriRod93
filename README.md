@@ -137,7 +137,7 @@ Meu objetivo é transformar requisitos e necessidades de negócio em **soluçõe
 
 💼 **LinkedIn:** [Iuri Rodrigues](https://www.linkedin.com/in/iuri-rodrigues-80968910b/)
 
-🌎 **Portfólio:** [Meu Portfólio](https://iurirod93.github.io/porfifolio13/)
+🌎 **Portfólio:** [Meu Portfólio]([https://iurirod93.github.io/porfifolio13/](https://iurirodriguesdev.web.app/))
 
 ---
 
