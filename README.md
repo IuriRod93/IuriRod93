@@ -66,6 +66,7 @@ Atualmente, trabalho também com projetos freelancer, desenvolvendo sistemas, ap
 * Firebase
 * Integração com serviços externos
 * Deploy e aplicações Web
+* AWS
 
 ### Ferramentas
 
